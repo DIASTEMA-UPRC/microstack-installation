@@ -1,5 +1,5 @@
 # Install MicroStack - OpenStack on Ubuntu
-MicroStack is OpenStack in a Snap made by Canonical and RedHat [[1]](https://github.com/karamolegkos/Diastema/blob/main/diastema/microstack-installation/microstack-installation.md#references). It can be used to make public, private or hybrid virtual clouds. 
+MicroStack is OpenStack in a Snap made by Canonical and RedHat [[1]](https://github.com/DIASTEMA-UPRC/microstack-installation/blob/main/microstack-installation/microstack-installation.md#references). It can be used to make public, private or hybrid virtual clouds. 
 
 MicroStack is not so well documented as the other OpenStack versions, so here is a nice guide to get you started with a mini cloud!
 
