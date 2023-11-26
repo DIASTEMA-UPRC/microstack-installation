@@ -45,7 +45,7 @@ sudo sysctl net.ipv4.ip_forward=1
 sudo iptables -I FORWARD -s 10.20.20.1/24 -j ACCEPT
 sudo iptables -I FORWARD -d 10.20.20.1/24 -j ACCEPT
 ```
-! The last two commands must run on start-up because they will reset after any reboot !
+! The last commands must run on start-up because they will reset after any reboot !
 
 Also after a reboot run the following:
 ```
